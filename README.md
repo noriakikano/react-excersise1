@@ -1,2 +1,2 @@
-# react-excersise1
+# modanJsTest
 Created with CodeSandbox
